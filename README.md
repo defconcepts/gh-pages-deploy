@@ -14,7 +14,7 @@ All you need to do is specify a couple of things in your package.json(all of whi
       "build-sass",
       "optimize-img"
     ],
-    "noprompt" false
+    "noprompt": false
   },
 
 ```
